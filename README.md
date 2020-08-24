@@ -1,4 +1,7 @@
 # vue-cli-plugin-tailwind
+
+forked from [forsartis/vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind)
+
 [![Tailwind CSS](https://img.shields.io/npm/dependency-version/vue-cli-plugin-tailwind/tailwindcss.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/npm/l/vue-cli-plugin-tailwind.svg)](https://github.com/forsartis/vue-cli-plugin-tailwind/blob/master/LICENSE)
 

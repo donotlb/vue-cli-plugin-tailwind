@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-tailwind",
+  "name": "@donotlb/vue-cli-plugin-tailwind",
   "version": "1.4.2",
   "description": "vue-cli plugin for Tailwind CSS",
   "author": "Jens Eggerstedt <j.eggerstedt@kaibatech.de>",
@@ -19,6 +19,6 @@
   ],
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
-    "tailwindcss": "^1.6.2"
+    "tailwindcss": "^1.7.3"
   }
 }
